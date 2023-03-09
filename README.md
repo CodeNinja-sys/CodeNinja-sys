@@ -1,3 +1,3 @@
-Windows On Mediatek - WOM
+Windows on Mediatek - WOM
 
-Make for fun edk2 for mediatek platforms:0
+I make edk2 for mediatek platforms for fun:0
