@@ -1,7 +1,3 @@
-Hello👋❤
+Windows On Mediatek - WOM
 
-My name is Denis 😯
-
-Love music) 😄
-
-Renegade Project is best📱
+Make for fun edk2 for mediatek platforms:0
