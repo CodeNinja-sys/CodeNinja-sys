@@ -5,5 +5,5 @@
 
 # About me:
 
-* From Belarus 🇧🇾
+* From Belarus
 * Birthday: 05/02
